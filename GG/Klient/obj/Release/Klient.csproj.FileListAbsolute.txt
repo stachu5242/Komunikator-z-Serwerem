@@ -1,0 +1,8 @@
+D:\Studia\Klient\Klient\obj\Release\Klient.exe
+D:\Studia\Klient\Klient\obj\Release\Klient.pdb
+D:\Studia\Klient\Klient\bin\Release\Klient.exe
+D:\Studia\Klient\Klient\bin\Release\Klient.pdb
+D:\Studia\Klient\Klient\obj\Release\Klient.Klient.resources
+D:\Studia\Klient\Klient\obj\Release\Klient.Properties.Resources.resources
+D:\Studia\Klient\Klient\obj\Release\Klient.csproj.GenerateResource.Cache
+D:\Studia\Klient\Klient\obj\Release\Klient.csprojResolveAssemblyReference.cache
