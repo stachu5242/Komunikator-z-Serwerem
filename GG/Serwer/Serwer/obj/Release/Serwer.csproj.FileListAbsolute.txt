@@ -1,0 +1,2 @@
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Serwer\Serwer\obj\Release\Serwer.exe
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Serwer\Serwer\obj\Release\Serwer.pdb

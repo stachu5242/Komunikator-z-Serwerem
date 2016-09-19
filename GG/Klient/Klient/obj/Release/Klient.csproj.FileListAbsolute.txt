@@ -1,0 +1,8 @@
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\obj\Release\Klient.exe
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\obj\Release\Klient.pdb
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\bin\Release\Klient.exe
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\bin\Release\Klient.pdb
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\obj\Release\Klient.csprojResolveAssemblyReference.cache
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\obj\Release\Klient.Klient.resources
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\obj\Release\Klient.Properties.Resources.resources
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\Klient\obj\Release\Klient.csproj.GenerateResource.Cache

@@ -1,0 +1,4 @@
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\obj\Debug\Klient.Klient.resources
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\obj\Debug\Klient.Properties.Resources.resources
+D:\Programowanie\C#\Komunikator-z-Serwerem\GG\Klient\obj\Debug\Klient.csproj.GenerateResource.Cache
